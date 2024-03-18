@@ -6,5 +6,6 @@ public class Main {
         System.out.print("Дома не было кровати, я её... на полу");
         System.out.print("Sonyaaaaaaaaaaaaaa");
         System.out.print("idi v popu!");
+        System.out.print("жопа!");
     }
 }
